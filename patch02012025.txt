@@ -1,0 +1,24 @@
+Updating Subscription Management repositories.
+Transaction ID : 62
+Begin time     : Sat 01 Feb 2025 09:20:41 AM EST
+Begin rpmdb    : 1767:a46be56694fffc87f094b6fc64777d25beb1028a
+End time       : Sat 01 Feb 2025 09:21:48 AM EST (67 seconds)
+End rpmdb      : 1767:944eee30ce64317ba62a07081ed642a4c35a81d0
+User           : kojo asante <kojoasante>
+Return-Code    : Success
+Releasever     : 8
+Command Line   : update -y
+Comment        : 
+Packages Altered:
+    Upgrade  snap-confine-2.67-0.el8.x86_64           @epel
+    Upgraded snap-confine-2.66.1-0.el8.x86_64         @@System
+    Upgrade  snapd-2.67-0.el8.x86_64                  @epel
+    Upgraded snapd-2.66.1-0.el8.x86_64                @@System
+    Upgrade  snapd-selinux-2.67-0.el8.noarch          @epel
+    Upgraded snapd-selinux-2.66.1-0.el8.noarch        @@System
+    Upgrade  python3-unbound-1.16.2-5.8.el8_10.x86_64 @rhel-8-for-x86_64-appstream-rpms
+    Upgraded python3-unbound-1.16.2-5.el8_9.6.x86_64  @@System
+    Upgrade  unbound-libs-1.16.2-5.8.el8_10.x86_64    @rhel-8-for-x86_64-appstream-rpms
+    Upgraded unbound-libs-1.16.2-5.el8_9.6.x86_64     @@System
+    Upgrade  libsoup-2.62.3-7.el8_10.x86_64           @rhel-8-for-x86_64-baseos-rpms
+    Upgraded libsoup-2.62.3-6.el8_10.x86_64           @@System
